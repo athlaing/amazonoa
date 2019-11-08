@@ -1,0 +1,20 @@
+﻿  MinDiscount.cpp
+  OA.cpp
+C:\Users\Arthur Hlaing\Documents\OA\OA\MinDiscount.h(24,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\MoviesOnFlight.h(32,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\TreasureIslandI.h(26,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\TreasureIslandI.h(26,88): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\TreasureIslandII.h(13,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\TreasureIslandII.h(14,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\TreasureIslandII.h(32,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\TreasureIslandII.h(32,88): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\ZombieInfection.h(11,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\ZombieInfection.h(12,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\ZombieInfection.h(27,39): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\ZombieInfection.h(27,89): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\MostCommonWords.h(19,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\MostCommonWords.h(42,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Arthur Hlaing\Documents\OA\OA\KDistinctChar.h(12,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+C:\Users\Arthur Hlaing\Documents\OA\OA\MinDiscount.h(24,21): warning C4018: '<': signed/unsigned mismatch
+  OA.vcxproj -> C:\Users\Arthur Hlaing\Documents\OA\Debug\OA.exe
